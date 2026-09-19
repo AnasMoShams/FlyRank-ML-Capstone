@@ -274,7 +274,7 @@ FlyRank-ML-Capstone/
 The complete research paper documents the methodology, experiments, results, limitations, and recommendations in detail.
 
 **Research Paper:**  
-Coming soon — public deployment will be added after GitHub Pages setup.
+[Read the full research paper](https://anasmoshams.github.io/FlyRank-ML-Capstone/work/paper/research_paper.html)
 
 ---
 
